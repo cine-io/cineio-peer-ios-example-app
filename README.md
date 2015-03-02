@@ -2,7 +2,7 @@
 
 This is an iOS example application using [cine.io Peer iOS SDK][cineio-peer-ios]. It supports joining rooms, identifying, calling, and showing local and remove streams.
 
-## How to run Locally
+## How to run locally
 
 1. Update `CINE_IO_PUBLIC_KEY` and `CINE_IO_SECRET_KEY` in [ViewController.m][public-key]
 * Install the pods in the CineIOPeerExampleApp directory
@@ -13,7 +13,7 @@ This is an iOS example application using [cine.io Peer iOS SDK][cineio-peer-ios]
 *
 * Run the app on an iOS device.
 
-## Quick walkthrough
+## Code Walkthrough
 
 ### ViewController.m
 
