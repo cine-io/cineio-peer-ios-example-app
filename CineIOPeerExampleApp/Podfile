@@ -1,5 +1,5 @@
-# pod 'cineio-peer-ios', :path => '/Users/thomas/work/cine-io/cineio-peer-ios'
-pod 'cineio-peer-ios', '0.0.7'
+#pod 'cineio-peer-ios', :path => '/Users/thomas/work/cine-io/cineio-peer-ios'
+pod 'cineio-peer-ios', '0.0.8'
 
 # Add this to the bottom so it won't have issues with active architecture
 post_install do |installer_representation|
