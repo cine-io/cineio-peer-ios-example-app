@@ -50,6 +50,7 @@ static CGFloat const kLocalViewPadding = 20;
     }
 
     // Initialize the CinePeerClientConfig class
+    // We are a delegate of CinePeerClientDelegate
     CinePeerClientConfig *config = [[CinePeerClientConfig alloc] initWithPublicKey:CINE_IO_PUBLIC_KEY delegate:self];
     // Add the secret key
     // This is only necessary for securely identifying
