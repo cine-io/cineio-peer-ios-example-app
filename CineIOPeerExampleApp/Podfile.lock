@@ -1,6 +1,6 @@
 PODS:
   - BlocksKit/DynamicDelegate (2.2.5)
-  - cineio-peer-ios (0.0.4):
+  - cineio-peer-ios (0.0.5):
     - libjingle_peerconnection (~> 8515.2.0)
     - Primus
     - SocketRocket (~> 0.3.1-beta2)
@@ -20,11 +20,11 @@ PODS:
   - SocketRocket (0.3.1-beta2)
 
 DEPENDENCIES:
-  - cineio-peer-ios (= 0.0.4)
+  - cineio-peer-ios (= 0.0.5)
 
 SPEC CHECKSUMS:
   BlocksKit: 4439e7f30a9f90743462ca63545a15c1f4304cef
-  cineio-peer-ios: 1562300f8eaa1adbda6cad74093dcfeb0b62c8b8
+  cineio-peer-ios: b7ce52df2f335bc562337bde5199b04bc2d475ea
   Emitter: c892463e3c64e43e4fac81fa829791d04512829c
   GCDTimer: a5992055d0391db6ff1e068b0a4ca6befd1deade
   libextobjc: d6146fce3ebea986b7f75fcb4c967639200b88b0

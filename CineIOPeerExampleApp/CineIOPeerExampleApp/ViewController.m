@@ -70,6 +70,10 @@ static CGFloat const kLocalViewPadding = 20;
     // NSString *identityName = @"SET-UNIQUE-IDENTITY-HERE";
     // CineIdentity *identity = [config generateIdentity:identityName];
     // [self.cinePeerClient identify:identity];
+    //
+    // Uncomment to call another identity
+    // NSString *identityToCall = @"SET-UNIQUE-IDENTITY-HERE-TO-CALL";
+    // [self.cinePeerClient call:identityToCall];
 
 }
 

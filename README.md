@@ -19,7 +19,7 @@ This is an iOS example application using [cine.io Peer iOS SDK][cineio-peer-ios]
 
 This class creates a new `CinePeerClientConfig` and passes it to a new `CinePeerClient`.
 
-It then starts the camera, joins an example room, and optionally identifies.
+It then starts the camera, joins an example room. Identifying and calling can be commented in to test the identifying and calling functionality of cine.io.
 
 This class is also a `CinePeerClientDelegate`. It must implement the following methods:
 ```objective-c
