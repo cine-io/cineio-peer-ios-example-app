@@ -16,7 +16,8 @@ This is an iOS example application using [cine.io Peer iOS SDK][cineio-peer-ios]
   ```
 * Open `CineIOPeerExampleApp.xcworkspace` in XCode
 * Update `CINE_IO_PUBLIC_KEY` and `CINE_IO_SECRET_KEY` in [ViewController.m][public-key]
-* Press Run in XCode. The app automatically puts you in a room called `example`.
+* Press Run in XCode.
+* The app automatically connects to cine.io, starts the camera, and puts you in a room called `example`.
 
 ## Code Walkthrough
 
