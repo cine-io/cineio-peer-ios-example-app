@@ -11,6 +11,7 @@ This is an iOS example application using [cine.io Peer iOS SDK][cineio-peer-ios]
   ```
 * Register for a public and secret key at [cine.io][cine-io]
 * Install the pods in the CineIOPeerExampleApp directory
+
   ```shell
   cd CineIOPeerExampleApp && pod install
   ```
